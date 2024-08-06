@@ -4,5 +4,25 @@
         "indexedWorkspaceId": "56c698898cc9c792576c3b97e67eedbeb6828b1056e58f920552d2bc7bb308a0",
         "uploadedFiles": 7559,
         "indexingId": "91c09ac504808d328f0b1099297499973befaaf5b07f4f7ce5b2f911668d8608"
-    }
+    },
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#c2c8f8",
+        "activityBar.background": "#c2c8f8",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#eb5364",
+        "activityBarBadge.foreground": "#15202b",
+        "commandCenter.border": "#15202b99",
+        "sash.hoverBorder": "#c2c8f8",
+        "statusBar.background": "#959ff2",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#6876ec",
+        "statusBarItem.remoteBackground": "#959ff2",
+        "statusBarItem.remoteForeground": "#15202b",
+        "titleBar.activeBackground": "#959ff2",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#959ff299",
+        "titleBar.inactiveForeground": "#15202b99"
+    },
+    "peacock.color": "#959ff2"
 }
